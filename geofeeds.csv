@@ -3,11 +3,14 @@
 92.61.61.0/24,AT,AT-9,Wien,
 92.61.62.0/24,AT,AT-9,Wien,
 92.61.63.0/24,AT,AT-9,Wien,
+92.61.63.59,AT,AT-9,Wien,1160
+92.61.63.57,AT,AT-9,Wien,1190
+92.61.60.245,AT,AT-9,Wien,1210
 209.92.64.0/24,AT,AT-9,Wien,
 209.92.65.0/24,AT,AT-9,Wien,
 209.92.66.0/24,DE,DE-HE,Frankfurt am Main,
 209.92.67.0/24,CH,CH-ZH,Zürich,
-2a00:8e40:b00b::/48,AT,AT-9,Wien,
+2a00:8e40:b00b::/48,AT,AT-9,Wien,1210
 2a00:8e40::/32,AT,AT-9,Wien,
 2a00:8e41::/32,AT,AT-9,Wien,
 2a00:8e42::/32,DE,DE-HE,Frankfurt am Main,
